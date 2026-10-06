@@ -1,0 +1,14 @@
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\bin\Debug\net9.0\ControleEstoque.exe
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\bin\Debug\net9.0\ControleEstoque.deps.json
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\bin\Debug\net9.0\ControleEstoque.runtimeconfig.json
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\bin\Debug\net9.0\ControleEstoque.dll
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\bin\Debug\net9.0\ControleEstoque.pdb
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ControleEstoque.dll
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\refint\ControleEstoque.dll
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ControleEstoque.pdb
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\santo\projetos\DesafioTarget2\ControleEstoque\obj\Debug\net9.0\ref\ControleEstoque.dll
